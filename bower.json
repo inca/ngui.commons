@@ -1,0 +1,23 @@
+{
+  "name": "angular.ui.commons",
+  "version": "0.0.0",
+  "authors": [
+    "Boris Okunskiy <i@savant.pro>"
+  ],
+  "description": "Common UI directives (give class, focus, etc.) for Angular",
+  "main": "ui.commons.js",
+  "keywords": [
+    "angular",
+    "ui"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    ".idea",
+    "*.iml",
+    "test",
+    "tests"
+  ]
+}
