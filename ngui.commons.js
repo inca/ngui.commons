@@ -1,6 +1,6 @@
 (function(window, document, angular, undefined) {
 
-  var module = angular.module('ui.commons', []);
+  var module = angular.module('ngui.commons', []);
 
   module.directive('uiHl', function() {
     return {
