@@ -1,11 +1,11 @@
 {
-  "name": "angular.ui.commons",
-  "version": "0.0.0",
+  "name": "angular-ui-commons",
+  "version": "0.0.1",
   "authors": [
-    "Boris Okunskiy <i@savant.pro>"
+    "Boris Okunskiy <boris@okunskiy.name>"
   ],
   "description": "Common UI directives (give class, focus, etc.) for Angular",
-  "main": "ui.commons.js",
+  "main": "angular-ui-commons.js",
   "keywords": [
     "angular",
     "ui"
