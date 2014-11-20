@@ -1,11 +1,11 @@
 {
-  "name": "angular-ui-commons",
+  "name": "inca-ui-commons",
   "version": "0.0.1",
   "authors": [
     "Boris Okunskiy <boris@okunskiy.name>"
   ],
-  "description": "Common UI directives (give class, focus, etc.) for Angular",
-  "main": "angular-ui-commons.js",
+  "description": "Common UI/UX directives (give class, focus, etc.) for Angular",
+  "main": "ngui.commons.js",
   "keywords": [
     "angular",
     "ui"

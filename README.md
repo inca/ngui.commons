@@ -1,4 +1,4 @@
-# UI Commons
+# Angular UI Commons
 
 A set of common directives for non-SPA built with AngularJS.
 
